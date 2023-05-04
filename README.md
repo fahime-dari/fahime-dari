@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently learning **Javascript courses**
 
-- 💬 If you want to know more about me : [LinkedIn](www.linkedin.com/in/)
+- 💬 If you want to know more about me : [LinkedIn](www.linkedin.com/in/fahime-dari)
 
 - 📫 You can contact me at: **fahime@live.fr**
 

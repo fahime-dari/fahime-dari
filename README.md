@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fahime-dari" target="blank"><img align="center" src="www.linkedin.com/in/fahime-dari alt="fahime-dari" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahime-dari" target="blank"><img align="center" src="www.linkedin.com/in/fahime-dari" alt="fahime-dari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
